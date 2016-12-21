@@ -1,0 +1,8 @@
+revert server setings
+     max upload size
+
+
+required admin@apnlive.com email address from apporv
+
+
+
